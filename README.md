@@ -14,7 +14,7 @@ Extensive experiments show that SOLID consistently enhances the performance of c
 
 ## Setup 
 
-1. `pip install requirements.txt`, run this to install the envrionment.
+1. `pip install -r requirements.txt`, run this to install the envrionment.
 
 ## How to use?
 
